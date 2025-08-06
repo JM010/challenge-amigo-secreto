@@ -21,10 +21,10 @@ Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para
 
 ## Uso :pushpin:
 - Ingresar los nombres en el campo.
-- Apretar el boton 'añadir' para agregar los nombres a la lista.
-- El juego no tomar el valor del campo, si esta vacio o si introduce nombres repetidos.
-- Presione el boto sortear amigos y saldra el nombre del ganador en letras verdes
-- Depues de cinco segudos el juego se reiniciar
+- Apretar el botón 'añadir' para agregar los nombres a la lista.
+- El juego no tomará el valor del campo, si está vacío o si introduce nombres repetidos. 
+- Presione el botón de sortear amigos y saldrá el nombre del ganador en letras verdes
+- Después de cinco segundos, el juego se reiniciará
 ![ingresar la lista de nombres por el campo](./assets/funcionalidad.gif)
 
 ## Contribuciones :page_facing_up:
