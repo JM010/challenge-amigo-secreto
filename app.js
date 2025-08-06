@@ -30,8 +30,8 @@ function validarAmigo(amigo) {
 // Función para limpiar el campo de entrada
 // y enfocar el cursor en él
 function limpiarCampo() {
-    campo.value = "";
-    campo.focus();
+    campoAmigo.value = "";
+    campoAmigo.focus();
 }
 
 // Función para sortear un amigo de la lista
