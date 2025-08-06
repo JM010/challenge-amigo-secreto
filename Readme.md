@@ -2,7 +2,7 @@
 
 Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para organizar el juego del Amigo Secreto.
 
-## Características
+## Características :technologist:
 
 - Registro de participantes
 - Asignación aleatoria de amigos secretos
@@ -12,23 +12,21 @@ Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para
 
 - [Tecnología principal] (ejemplo: JavaScript)
 
-## Instalación
+## Instalación :pushpin:
 
-1. Clona el repositorio:
+* Clona el repositorio: 
     ```bash
     git clone https://github.com/JM010/challenge-amigo-secreto.git
     
 
-## Uso
+## Uso :pushpin:
 
 Sigue las instrucciones en pantalla para agregar participantes y realizar el sorteo del Amigo Secreto.
 
-## Contribuciones
+## Contribuciones :page_facing_up:
 
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request.
 
-## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 
