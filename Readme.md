@@ -10,7 +10,7 @@ Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para
 
 ## Tecnologías utilizadas 🚀
 
-- [Tecnología principal] (ejemplo: JavaScript)
+- [Tecnología principal] (JavaScript)
 
 ## Instalación :pushpin:
 
