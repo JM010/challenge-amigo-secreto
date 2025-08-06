@@ -44,6 +44,15 @@ function sortearAmigo() {
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = `<li>El amigo secreto sorteado es: ${amigoSorteado}</li>`;
     resultado.style.color = "green";
+    reinciarSorteo();
+}
+
+// Función para reiniciar el sorteo
+// Limpia la lista de amigos y el resultado después de 5 segundos
+function reinciarSorteo() {
+    setTimeout (() => {
+        resultado.innerHTML = ``;
+    }, 5000);
     document.getElementById("listaAmigos").innerHTML = "";
     amigos = []; 
     limpiarCampo();
