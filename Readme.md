@@ -21,7 +21,7 @@ Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para
 
 ## Uso :pushpin:
 
-Sigue las instrucciones en pantalla para agregar participantes y realizar el sorteo del Amigo Secreto.
+- ![ingresar la lista de nombres por el campo](assets\funcionalidad.gif)
 
 ## Contribuciones :page_facing_up:
 
