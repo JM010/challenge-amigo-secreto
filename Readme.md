@@ -21,7 +21,7 @@ Este proyecto es parte del programa ONE-Alura y consiste en una aplicación para
 
 ## Uso :pushpin:
 
-![ingresar la lista de nombres por el campo](assets\funcionalidad.gif)
+![ingresar la lista de nombres por el campo](./assets/funcionalidad.gif)
 
 ## Contribuciones :page_facing_up:
 
